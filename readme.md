@@ -1,4 +1,4 @@
-#Code test - Quantitative Model Developer
+# Code test - Quantitative Model Developer
 
 ## Task 1
 
@@ -11,7 +11,8 @@ The python script distance_calc.py is written in python3 and can be executed thr
 The input of the function calc_distances() determines whether geoloc.csv is imported or random geolocations are used to calculate the pair distances.
 
 ### calc_distances
-calc_distances(n='import')
+**calc_distances(n='import')**
+
     * Input:
       - n: integer
         The integer n determines how many random location entities are generated.
